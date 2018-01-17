@@ -7,7 +7,7 @@
 4. 通过定义的middleware中间件来检查用户是否拥有相应权限
 
 #### 接口说明
-   
+
 - GET /permission/url/    获取URL列表
 - GET /permission/group/ 获取权限组对应的权限列表
 - POST /permission/group/ 创建组和对应的权限
